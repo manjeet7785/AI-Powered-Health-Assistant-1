@@ -1,1 +1,1 @@
-# AI-Powered-Health-Assistant-1
+# AI-Powered-Health-Assistant

@@ -1,0 +1,6 @@
+# Some requirement  accoding to me 
+streamlit
+transformers
+tensorflow
+nltk
+tf-keras
